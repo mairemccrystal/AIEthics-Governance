@@ -6,10 +6,17 @@ Repo to track my research and efforts in AI, AI Ethics & Governance
 
 ## Links, Resources etc 
 
-### Courses 
+| Test Instructor | Course Name  |
+|--|--|
+| Google Cloud Skills Boost | Introduction to Responsible AI |
+| Mark Thompson | Introduction to Javascript |
+| Alan Richardson | Automating in the Browser Using Javascript |
+| Raja Rao DV | Modern Functional Test Automation Through Visual AI |
+| Brendan Connolly | Introduction to nUnit |
+
 
 |Test Instructor|Course Name| Status |
-|Google Cloud Skills Boost|Introduction to Responsible AI| Complete|
+|Google Cloud Skills Boost|| Complete|
 | Lund University | AI & Law | In Progress | 
 
 
@@ -18,10 +25,3 @@ Repo to track my research and efforts in AI, AI Ethics & Governance
 ## Test Automation University Courses Completed
 
 
-| Test Instructor | Course Name  |
-|--|--|
-| Angie Jones  | Setting a Foundation for Successful Test Automation  |
-| Mark Thompson | Introduction to Javascript |
-| Alan Richardson | Automating in the Browser Using Javascript |
-| Raja Rao DV | Modern Functional Test Automation Through Visual AI |
-| Brendan Connolly | Introduction to nUnit |
