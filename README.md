@@ -8,7 +8,7 @@ Repo to track my research and efforts in AI, AI Ethics & Governance
 
 ### Courses 
 
-| Test Instructor / Body | Course Name  | Status |
+| Test Instructor | Course Name  | Status |
 |--|--|
 | Google Cloud Skills Boost  | Introduction to Responsible AI   | Complete |
 | Lund University | AI & Law | In Progress | 
